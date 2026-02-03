@@ -59,6 +59,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+* **2025 iThome Ironman 30 Technical Writing Challenge** - Honorable Mention Award (October 2025)
+  * Agent-Brain: Designing an LLM Agent Workflow from Scratch
+  * Built a modular LLM agent system from scratch, implementing finite-state reasoning stage with tools integration
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
