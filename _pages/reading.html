@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Reading Log"
+permalink: /reading/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sorted_reading = site.reading | sort: 'date' | reverse %}
+{% for post in sorted_reading %}
+  {% unless post.type == 'chapter' %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
