@@ -1,5 +1,5 @@
 ---
-title: "Reliable, Scalable, and Maintainable Applications"
+title: "Chapter 1: Reliable, Scalable, Maintainable Application"
 collection: reading
 type: chapter
 chapter_num: 1
@@ -11,7 +11,6 @@ tags:
   - maintainability
 ---
 
-# Chapter 1: Reliable, Scalable, Maintainable Application
 
 Common module:
 

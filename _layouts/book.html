@@ -55,9 +55,7 @@ layout: default
         <ul class="chapter-list">
           {% for chapter in folder_chapters %}
             <li>
-              <a href="{{ base_path }}{{ chapter.url }}">
-                {% if chapter.chapter_num %}Ch. {{ chapter.chapter_num }}: {% endif %}{{ chapter.title }}
-              </a>
+              <a href="{{ base_path }}{{ chapter.url }}">{{ chapter.title }}</a>
               {% if chapter.date %}<span class="chapter-date"> - {{ chapter.date | date: "%Y-%m-%d" }}</span>{% endif %}
             </li>
           {% endfor %}
