@@ -2,7 +2,7 @@
 title: "AI Advisor - Synology Chatbot"
 excerpt: "An AI-powered chatbot serving 50k global users monthly, recognized by CEO for exceptional accuracy and user experience."
 collection: portfolio
-date: 2024-08
+date: 2025-09-21
 ---
 
 ## Overview

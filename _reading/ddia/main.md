@@ -3,7 +3,7 @@ title: "Designing Data-Intensive Applications"
 excerpt: "The big ideas behind reliable, scalable, and maintainable systems."
 collection: reading
 type: book
-date: 2025-01
+date: 2025-07-14
 author: "Martin Kleppmann"
 layout: book
 tags:
