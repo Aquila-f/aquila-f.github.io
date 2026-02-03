@@ -22,7 +22,7 @@ repository               : "aquila-f/aquila-f.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.jpg"
   name             : "Tai Lin Wu (Jack Wu)"
   pronouns         : # example: "she/her"
   bio              : "Tenacious and creative Software Engineer driven by a passion for solving complex, high-stakes challenges in AI and infrastructure."
