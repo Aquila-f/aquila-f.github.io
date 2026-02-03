@@ -2,6 +2,7 @@
 title: "Agent-Brain: Designing an LLM Agent Workflow from Scratch"
 excerpt: "A modular LLM agent system with finite-state reasoning, awarded Honorable Mention at 2025 iThome Ironman Challenge."
 collection: portfolio
+date: 2025-10
 ---
 
 ## Overview
