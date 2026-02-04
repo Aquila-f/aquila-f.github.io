@@ -3,7 +3,7 @@ title: "Chapter 3: Storage and Retrieval"
 collection: reading
 type: chapter
 chapter_num: 3
-date: 2025-07-25
+date: 2025-08-12
 layout: chapter
 tags:
   - storage

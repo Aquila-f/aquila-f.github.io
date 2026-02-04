@@ -3,7 +3,7 @@ title: "Chapter 4: Encoding and Evolution"
 collection: reading
 type: chapter
 chapter_num: 4
-date: 2025-07-28
+date: 2025-08-26
 layout: chapter
 tags:
   - encoding
