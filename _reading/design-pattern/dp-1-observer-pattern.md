@@ -3,7 +3,7 @@ title: "Observer Pattern"
 excerpt: "Publish/Subscribe pattern for one-to-many notification."
 collection: reading
 type: chapter
-date: 2025-02-03
+date: 2024-08-07
 book: design-pattern
 layout: chapter
 chapter_number: 1

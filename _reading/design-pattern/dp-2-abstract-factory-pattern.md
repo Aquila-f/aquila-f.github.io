@@ -3,7 +3,7 @@ title: "Abstract Factory Pattern"
 excerpt: "Define factory interfaces for creating families of related objects."
 collection: reading
 type: chapter
-date: 2025-02-03
+date: 2024-08-28
 book: design-pattern
 layout: chapter
 chapter_number: 2

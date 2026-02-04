@@ -3,7 +3,7 @@ title: "Design Patterns"
 excerpt: "Notes on software design patterns for building maintainable and scalable code."
 collection: reading
 type: book
-date: 2025-02-03
+date: 2024-08-07
 layout: book
 tags:
   - design-patterns
